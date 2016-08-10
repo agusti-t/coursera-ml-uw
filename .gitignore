@@ -1,3 +1,6 @@
 *DS_Store*
 *.gl
 .ipynb_checkpoints/
+image_train_data/
+image_test_data/
+__MACOSX*
